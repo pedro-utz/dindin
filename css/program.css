@@ -1,0 +1,86 @@
+.banner{
+    height: 70vh;
+}
+.text-banner{
+    text-align: justify;
+    width: 50%;
+}
+
+.lessons{
+    align-items: center;
+    background-color: #f6f6f6;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.lesson{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.lesson iframe{
+    width: 60%;
+    margin-right: 5%;
+}
+
+.flex-container p{
+    margin-bottom: 5%;
+}
+
+@media screen and (max-width: 1000px) {
+
+    .banner{
+        height: fit-content;
+        margin: 10% 0%;
+    }
+
+    .text-banner{
+        width: 90%;
+        text-align: center;
+    }
+
+    .lesson{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .lesson iframe{
+        width: 60%;
+
+    }
+
+}
+    
+@media screen and (max-width: 500px) {
+
+.lesson{
+    margin-top: 15%;
+}
+
+.lesson iframe{
+    width: 70%;
+    
+}
+.lesson a{
+    text-align: center;
+    width: 50%;
+}
+.flex-container p{
+    margin-bottom: 10%;
+}
+
+.text-banner{
+    width: 90%;
+    text-align: center;
+}
+
+}

@@ -1,0 +1,29 @@
+.post p{
+    width:54%;
+    text-align: justify;
+}
+
+.post img{
+    margin: 5% 0%;
+}
+
+#centralize{
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width:1000px) {
+
+    .post img{
+     width: 80%;
+    }
+
+    .post p{
+        width: 80%;
+    }
+    .post h1{
+        text-align: center;
+        width: 80%;
+    }
+    
+}
