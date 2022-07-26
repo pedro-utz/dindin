@@ -1,5 +1,11 @@
 # Dindin
 
+<table>
+  <tr>
+    <td valign="top"><img src="img/banner-img.jpg"/></td>
+  </tr>
+</table>
+
 Challenge:
 The fictional company DINDIN wants to launch a content platform about Financial Education.
 DINDIN platform layout: https://www.figma.com/file/fBQ1nm00ynNQPK9GBwyMBc/dindin?node-id=0%3A1
