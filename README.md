@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="[img/banner-img.jpg](https://github.com/pedro-utz/dindin/blob/master/img/banner-img.jpg)"/></td>
+    <td valign="top"><img src="https://github.com/pedro-utz/dindin/blob/master/img/banner-img.jpg"/></td>
   </tr>
 </table>
 
